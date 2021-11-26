@@ -1,0 +1,523 @@
+.srikar1{
+	color: #d6c055;
+	font-family: Comic Sans MS;
+}	
+
+.Srikar{
+	background: url("vikings.jpg");
+	height: 100vh;
+	width: 101vw;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.charya{
+	background-color: slategrey;
+	text-align: center;
+	border-top-left-radius: 25px;
+	border-top-right-radius: 25px;
+	padding-bottom: 10px;
+
+}
+.button{
+	background-color: #00ff87;
+	height: 40px;
+	width: 200px;
+	color: red;
+	border-radius: 25px;
+	border-width: 4px;
+}
+.btn-primary{
+	border-radius: 25px;
+	border-width: 4px;
+}
+.favorite-places-bg-container{
+  background-image: url("ob4.jpg");
+  height: 120vh;
+  background-size: cover;
+}
+.favorite-place-heading{
+  color: #ea5a20;
+  font-size: 50px;
+  font-family: Javanese Text;
+  font-weight: bold;
+  padding-top: 30px;
+  text-align: center;
+}
+.favorite-place-card-container1{
+  background-color: #d82060;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 15px;
+}
+.favorite-place-card-heading1{
+  color: #aee509;
+  font-family: Comic Sans MS;
+  font-weight: bold;
+  font-size: 24px;
+}
+.favorite-place-card-discription1{
+  font-family: Fixedsys;
+  font-size: 20px;
+  color: black;
+}
+.image1{
+  height: 150px;
+  width: 150px;
+  margin-left: 75px;
+}
+.favorite-place-card-container2{
+  background-color: #58e52d;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 15px;
+}
+.favorite-place-card-heading2{
+  color: #2374dd;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 24px;
+}
+.favorite-place-card-discription2{
+  font-family: Fixedsys;
+  font-size: 20px;
+  color: black;
+}
+.image2{
+  height: 20vh;
+  width: 10vw;
+  
+}
+.favorite-place-card-container3{
+  background-color: #23d4dd;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 15px;
+}
+.favorite-place-card-heading3{
+  color: #dd6123;
+  font-family: Franklin Gothic;
+  font-weight: bold;
+  font-size: 30px;
+}
+.favorite-place-card-discription3{
+  font-family: Fixedsys;
+  font-size: 20px;
+  color: black;
+}
+.image3{
+  height: 20vh;
+  width: 10vw;
+}
+.favorite-place-card-container4{
+  background-color: #f7920e;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 15px;
+}
+.favorite-place-card-heading4{
+  color: #dd2364;
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 24px;
+  
+}
+.favorite-place-card-discription4{
+  font-family: Fixedsys;
+  font-size: 20px;
+  color: black;
+}
+.image4{
+  height: 20vh;
+  width: 10vw;
+}
+.favorite-place-card-container5{
+  background-color: #a523dd;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 15px;
+}
+.favorite-place-card-heading5{
+  color: #dadd23;
+  font-family: Bahnschrift Condensed;
+  font-weight: bold;
+  font-size: 30px;
+}
+.favorite-place-card-discription5{
+  font-family: Fixedsys;
+  font-size: 20px;
+  color: black;
+}
+.image5{
+  height: 20vh;
+  width: 10vw;
+}
+.favorite-place-card-container6{
+  background-color: #a5dd23;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 15px;
+}
+.favorite-place-card-heading6{
+  color: #f70909;
+  font-family: Franklin Gothic;
+  font-weight: bold;
+  font-size: 30px;
+}
+.favorite-place-card-discription6{
+  font-family: Fixedsys;
+  font-size: 20px;
+  color: black;
+}
+.image6{
+  height: 20vh;
+  width: 20vw;
+  margin-left: 50px;
+}
+.favorite-place-card-container7{
+  background-color: #21fd2a;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 15px;
+}
+.favorite-place-card-heading7{
+  color: #9323dd;
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 30px;
+}
+.favorite-place-card-discriptio7{
+  font-family: Fixedsys;
+  font-size: 20px;
+  color: black;
+}
+.image7{
+  height: 20vh;
+  width: 20vw;
+  margin-left: 50px;
+}
+.favorite-place-card-container8{
+  background-color: #dd23af;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 15px;
+}
+.favorite-place-card-heading8{
+  color: #f2f204;
+  font-family: Comic Sans MS;
+  font-weight: bold;
+  font-size: 24px;
+}
+.favorite-place-card-discription8{
+  font-family: Fixedsys;
+  font-size: 20px;
+  color: black;
+}
+.image8{
+  height: 20vh;
+  width: 20vw;
+  margin-left: 50px;
+}
+.favorite-place-card-container9{
+  background-color: #ac8423;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 15px;
+}
+.favorite-place-card-heading9{
+  color: #414b6b;
+  font-family: Franklin Gothic;
+  font-weight: bold;
+  font-size: 30px;
+}
+.favorite-place-card-discription9{
+  font-family: Fixedsys;
+  font-size: 20px;
+  color: black;
+}
+.image9{
+  height: 20vh;
+  width: 20vw;
+  margin-left: 50px;
+}
+.favorite-place-card-container10{
+  background-color: #2333dd;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 15px;
+}
+.favorite-place-card-heading10{
+  color: #07f733;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 24px;
+}
+.favorite-place-card-discription10{
+  font-family: Fixedsys;
+  font-size: 20px;
+  color: black;
+}
+.image10{
+  height: 20vh;
+  width: 20vw;
+  margin-left: 50px;
+}
+.detailed-view-bg-container{
+  background-image: url("ob6.jpg");
+  background-size: 100% 100%;
+  height: 200vh;
+ }
+.detailed-view-heading{
+  color: red;
+  font-size: 28px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  padding: 50px;
+  text-align: center;
+}
+.detailed-view-card-container1{
+	background-color: #28d659;
+	padding: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+
+}
+.button
+{
+    color: white;
+    background-color: #d455d6;
+    width: 138vw;
+    height: 56vh;
+    border-radius: 25px;
+    text-align: center;
+}
+.embed-responsive-item1{
+  padding-right: 30px;
+  padding-left: 30px;
+}
+.detailed-view-card-discription1{
+  background-color: #28d659;
+  border-bottom-right-radius: 16px;
+  border-bottom-left-radius: 16px;
+  padding: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-weight: bold;
+  color: #811aef;
+
+}
+.detailed-view-card-container2{
+	background-color: #fcd616;
+	padding: 10px;
+  	margin-left: 30px;
+  	margin-right: 30px;
+
+}
+.detailed-view-card-heading2{
+
+}
+.embed-responsive-item2{
+  padding-right: 30px;
+  padding-left: 30px;
+}
+.detailed-view-card-discription2{
+  background-color: #fcd616;
+  border-bottom-right-radius: 16px;
+  border-bottom-left-radius: 16px;
+  padding: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-weight: bold;
+  color: #811aef;
+}
+.detailed-view-card-container3{
+	background-color: #00ff72;
+	padding: 10px;
+  	margin-left: 30px;
+  	margin-right: 30px;
+
+}
+.detailed-view-card-heading3{
+
+}
+.embed-responsive-item3{
+  padding-right: 30px;
+  padding-left: 30px;
+}
+.detailed-view-card-discription3{
+  background-color: #00ff72;
+  border-bottom-right-radius: 16px;
+  border-bottom-left-radius: 16px;
+  padding: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-weight: bold;
+  color: #811aef;
+}
+.detailed-view-card-container4{
+	background-color: #00ffdd;
+	padding: 10px;
+  	margin-left: 30px;
+  	margin-right: 30px;
+
+}
+.detailed-view-card-heading4{
+
+}
+.embed-responsive-item4{
+  padding-right: 30px;
+  padding-left: 30px;
+}
+.detailed-view-card-discription4{
+  background-color: #00ffdd;
+  border-bottom-right-radius: 16px;
+  border-bottom-left-radius: 16px;
+  padding: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-weight: bold;
+  color: #811aef;
+}
+.detailed-view-card-container5{
+	background-color: #aeff00;
+	padding: 10px;
+  	margin-left: 30px;
+  	margin-right: 30px;
+
+}
+.detailed-view-card-heading5{
+
+}
+.embed-responsive-item5{
+  padding-right: 30px;
+  padding-left: 30px;
+}
+.detailed-view-card-discription5{
+  background-color: #aeff00;
+  border-bottom-right-radius: 16px;
+  border-bottom-left-radius: 16px;
+  padding: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-weight: bold;
+  color: #811aef;
+}
+.detailed-view-card-container6{
+	background-color: #ff7f00;
+	padding: 10px;
+  	margin-left: 30px;
+  	margin-right: 30px;
+
+}
+.detailed-view-card-heading6{
+
+}
+.embed-responsive-item6{
+  padding-right: 30px;
+  padding-left: 30px;
+}
+.detailed-view-card-discription6{
+  background-color: #ff7f00;
+  border-bottom-right-radius: 16px;
+  border-bottom-left-radius: 16px;
+  padding: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-weight: bold;
+  color: #811aef;
+}
+.detailed-view-card-container7{
+	background-color: #c3ff00;
+	padding: 10px;
+  	margin-left: 30px;
+  	margin-right: 30px;
+
+}
+.detailed-view-card-heading7{
+
+}
+.embed-responsive-item7{
+  padding-right: 30px;
+  padding-left: 30px;
+}
+.detailed-view-card-discription7{
+  background-color: #c3ff00;
+  border-bottom-right-radius: 16px;
+  border-bottom-left-radius: 16px;
+  padding: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-weight: bold;
+  color: #811aef;
+}
+.detailed-view-card-container8{
+	background-color: #00ffb2;
+	padding: 10px;
+  	margin-left: 30px;
+  	margin-right: 30px;
+
+}
+.detailed-view-card-heading8{
+
+}
+.embed-responsive-item8{
+  padding-right: 30px;
+  padding-left: 30px;
+}
+.detailed-view-card-discription8{
+  background-color: #00ffb2;
+  border-bottom-right-radius: 16px;
+  border-bottom-left-radius: 16px;
+  padding: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-weight: bold;
+  color: #811aef;
+}
+.detailed-view-card-container9{
+	background-color: #ddff66;
+	padding: 10px;
+  	margin-left: 30px;
+  	margin-right: 30px;
+
+}
+.detailed-view-card-heading9{
+
+}
+.embed-responsive-item9{
+  padding-right: 30px;
+  padding-left: 30px;
+}
+.detailed-view-card-discription9{
+  background-color: #ddff66;
+  border-bottom-right-radius: 16px;
+  border-bottom-left-radius: 16px;
+  padding: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-weight: bold;
+  color: #811aef;
+}
+.detailed-view-card-container10{
+	background-color: #4538d7;
+	padding: 10px;
+  	margin-left: 30px;
+  	margin-right: 30px;
+
+}
+.detailed-view-card-heading10{
+
+}
+.embed-responsive-item10{
+  padding-right: 30px;
+  padding-left: 30px;
+}
+.detailed-view-card-discription10{
+  background-color: #4538d7;
+  border-bottom-right-radius: 16px;
+  border-bottom-left-radius: 16px;
+  padding: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-weight: bold;
+  color: #6aff00;
+}
